@@ -1,8 +1,7 @@
 # Hi there, I'm Oleg
-#### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=2500&pause=20000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=220&height=30&lines=Pre-Alpha+developer)](https://git.io/typing-svg)
 
-
-Hi. I testing README where you can read ME...you know
+I testing README where you can read ME...you know
 
 I'll leave a checklist here to monitor my progress in life
 - [x] Create checklist
@@ -31,7 +30,5 @@ graph TD;
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user5858eX)](https://github.com/madushadhanushka/github-readme)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dopelen&theme=graywhite&border_radius=50&card_width=550&fire=FF8910)](https://git.io/streak-stats)
-
-
 
 
