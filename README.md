@@ -1,5 +1,5 @@
 # Hi there, I'm Oleg
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=14FF04&background=1A1A1A36&center=true&vCenter=true&repeat=false&random=false&width=430&height=70&lines=__Pre_Alpha_Developer__" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=14FF04&background=1A1A1A36&center=true&vCenter=true&repeat=false&random=false&width=430&height=70&lines=__Pre_Alpha_Developer__)](https://git.io/typing-svg)
 
 I testing README where you can read ME...you know
 
