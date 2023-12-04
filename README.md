@@ -1,15 +1,13 @@
 # Hi there, I'm Oleg
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=2500&pause=20000&color=000000&center=true&vCenter=true&repeat=false&random=false&width=220&height=30&lines=Pre-Alpha+developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=14FF04&background=1A1A1A36&center=true&vCenter=true&repeat=false&random=false&width=430&height=70&lines=__Pre_Alpha_Developer__" alt="Typing SVG" /></a>
 
 I testing README where you can read ME...you know
 
 I'll leave a checklist here to monitor my progress in life
 - [x] Create checklist
 - [x] Create table
-- [x] Add cool emoji
 - [x] Create a flow chart
 - [ ] Find a job
-:shipit:
 
 **Here is my plan**:
 
