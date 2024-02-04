@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=111222&background=67C454&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
 <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=67C454&background=111222&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
-</picture>
-    
+</picture>  
 
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" /> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"><img alt="Black cat in light color mode and white cat in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"></picture> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="100" height="100" /> |
+
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" /> | <picture><source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg](https://github.com/Dopelen/Dopelen/assets/141639888/c7a02e7c-7a40-462e-b165-cab4c15821a2)" width="100" height="100"><img alt="Black cat in light color mode and white cat in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"></picture> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="100" height="100" /> |
 |---|---|---|---|
 
 
