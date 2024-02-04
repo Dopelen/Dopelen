@@ -1,8 +1,14 @@
 # Hi there, I'm Oleg
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=111222&background=67C454&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
 <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=67C454&background=111222&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
 </picture>
+
+
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="100" height="100" /> |
+|---|---|---|---|
+
 
 I testing README where you can read ME...you know
 
@@ -10,7 +16,7 @@ I'll leave a checklist here to monitor my progress in life
 - [x] Create checklist
 - [x] Create table
 - [x] Create a flow chart
-- [x] Make my own cool project (feel free to check it!)
+- [x] Make my own cool project (feel free to [***check it***](https://github.com/Dopelen/CheckIPer))
 - [x] Make a visual for it
 - [ ] Find a job
 
