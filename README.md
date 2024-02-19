@@ -16,7 +16,8 @@ I'll leave a checklist here to monitor my progress in life
 - [x] Create checklist
 - [x] Create table
 - [x] Create a flow chart
-- [x] Make my own cool project (feel free to [***check it***](https://github.com/Dopelen/CheckIPer) [***and this one***](https://github.com/Dopelen/Phone_book))
+- [x] Make my own cool project (feel free to [***check it***](https://github.com/Dopelen/CheckIPer))
+- [x] [***And another one***](https://github.com/Dopelen/Phone_book)
 - [x] Make a visual for it
 - [ ] Find a job
 
