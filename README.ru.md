@@ -43,5 +43,6 @@ graph TD;
 |Меня можно спрашивать о чем угодно, но качество ответов это другой вопрос|
 |Fun fact: Кольчуга для кролика это крольчуга|
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user5858eX)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Oleg_Ab)](https://github.com/madushadhanushka/github-readme)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dopelen&theme=graywhite&border_radius=50&card_width=550&fire=FF8910)](https://git.io/streak-stats)
