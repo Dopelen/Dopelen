@@ -1,7 +1,7 @@
 # Hi there, I'm Oleg
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=111222&background=67C454&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=111222&background=67C454&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
 <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=67C454&background=111222&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
 </picture>  
 
