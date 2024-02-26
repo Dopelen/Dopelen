@@ -9,6 +9,7 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" height="100" /> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dopelen/Dopelen/assets/141639888/c7a02e7c-7a40-462e-b165-cab4c15821a2" width="100" height="100"><img alt="Black cat in light color mode and white cat in dark color mode." src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="100"></picture> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="100" height="100" /> |
 |---|---|---|---|
 
+Сылка для переключения на [Русский](https://github.com/Dopelen/Dopelen/blob/main/README.ru.md)
 
 I testing README where you can read ME...you know
 
