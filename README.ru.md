@@ -17,10 +17,10 @@ Link to [English](https://github.com/Dopelen/Dopelen/blob/main/README.md) versio
 - [x] Создать чеклист
 - [x] Создать таблицу c иконками моих компетенций
 - [x] Создать блок-схему
-- [x] Сделать свой собственный проект (обязательно оцените [***тыкать сюда***](https://github.com/Dopelen/CheckIPer))
-- [x] [***И даже ещё один для консоли***](https://github.com/Dopelen/Phone_book)
-- [x] Сделать визуал с помощью Kivy
-- [x] Написать тесты
+- [x] Сделать свой собственный [***проект***](https://github.com/Dopelen/CheckIPer)
+- [x] [И даже ещё один для консоли](https://github.com/Dopelen/Phone_book)
+- [x] Сделать [визуал с помощью Kivy](https://github.com/Dopelen/CheckIPer?tab=readme-ov-file#what-does-checkiper-do)
+- [x] Написать [тесты](test_input_phone_book.py)
 - [ ] Найти работу
 
 **В целом сценарий такой**:
