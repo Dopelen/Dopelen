@@ -20,6 +20,7 @@ I'll leave a checklist here to monitor my progress in life
 - [x] Make my own cool project (feel free to [***check it***](https://github.com/Dopelen/CheckIPer))
 - [x] [***And another one***](https://github.com/Dopelen/Phone_book)
 - [x] Make a visual for it
+- [x] Make unit tests for it 
 - [ ] Find a job
 
 **Here is my plan**:
