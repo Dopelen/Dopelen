@@ -20,7 +20,7 @@ Link to [English](https://github.com/Dopelen/Dopelen/blob/main/README.md) versio
 - [x] Сделать свой собственный [***проект***](https://github.com/Dopelen/CheckIPer)
 - [x] [И даже ещё один для консоли](https://github.com/Dopelen/Phone_book)
 - [x] Сделать [визуал с помощью Kivy](https://github.com/Dopelen/CheckIPer?tab=readme-ov-file#what-does-checkiper-do)
-- [x] Написать [тесты](test_input_phone_book.py)
+- [x] Написать [тесты](https://github.com/Dopelen/Phone_book/blob/main/test_input_phone_book.py)
 - [ ] Найти работу
 
 **В целом сценарий такой**:
