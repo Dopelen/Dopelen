@@ -17,11 +17,12 @@ I'll leave a checklist here to monitor my progress in life
 - [x] Create checklist
 - [x] Create table
 - [x] Create a flow chart
-- [x] Make my own cool project (feel free to [***check it***](https://github.com/Dopelen/CheckIPer))
-- [x] [***And another one***](https://github.com/Dopelen/Phone_book)
-- [x] Make a visual for it
-- [x] Make unit tests for it 
+- [x] Make my own cool [***project***](https://github.com/Dopelen/CheckIPer)
+- [x] [And another one](https://github.com/Dopelen/Phone_book)
+- [x] Make a [visual for it](https://github.com/Dopelen/CheckIPer?tab=readme-ov-file#what-does-checkiper-do)
+- [x] Make [unit tests for it](https://github.com/Dopelen/Phone_book/blob/main/test_input_phone_book.py)
 - [ ] Find a job
+
 
 **Here is my plan**:
 
@@ -35,7 +36,7 @@ graph TD;
     Send_memes_to_friends --> Good_day;
 ```
 
-| My current status |
+| My current status: |
 |:----|
 |I’m working on finding a job but this is long road, so at the same time|
 |I'm learning SQL and advanced data structures|
