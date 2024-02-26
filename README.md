@@ -43,7 +43,8 @@ graph TD;
 |You can ask me about everything, but quality of the answer will vary|
 |Fun fact: Our intestines are essentially empty space, and a person is a formation around it|
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user5858eX)](https://github.com/madushadhanushka/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Oleg_Ab)](https://github.com/madushadhanushka/github-readme)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dopelen&theme=graywhite&border_radius=50&card_width=550&fire=FF8910)](https://git.io/streak-stats)
 
 
