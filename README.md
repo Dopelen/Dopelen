@@ -42,7 +42,7 @@ graph TD;
 |I'm learning SQL and advanced data structures|
 |I'm making my own program to monitor network performance|
 |You can ask me about everything, but quality of the answer will vary|
-|Fun fact: Our intestines are essentially empty space, and a person is a formation around it|
+|Fun fact: Why does fish smell so bad, it washes all its life...|
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Oleg_Ab)](https://github.com/madushadhanushka/github-readme)
 
