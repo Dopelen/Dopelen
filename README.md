@@ -17,10 +17,10 @@ I'll leave a checklist here to monitor my progress in life
 - [x] Create checklist
 - [x] Create table
 - [x] Create a flow chart
-- [x] Make my own cool [***project***](https://github.com/Dopelen/CheckIPer)
+- [x] Made my cool [***project***](https://github.com/Dopelen/CheckIPer)
 - [x] [And another one](https://github.com/Dopelen/Phone_book)
-- [x] Make a [visual for it](https://github.com/Dopelen/CheckIPer?tab=readme-ov-file#what-does-checkiper-do)
-- [x] Make [unit tests for it](https://github.com/Dopelen/Phone_book/blob/main/test_input_phone_book.py)
+- [x] Made a [GUI for the project](https://github.com/Dopelen/CheckIPer?tab=readme-ov-file#what-does-checkiper-do)
+- [x] Wrote [unit tests for it](https://github.com/Dopelen/Phone_book/blob/main/test_input_phone_book.py)
 - [ ] Find a job
 
 
