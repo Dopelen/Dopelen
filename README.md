@@ -45,8 +45,6 @@ graph TD;
 |Fun fact: Why does fish smell so bad, it washes all its life...|
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Oleg_Ab)](https://github.com/madushadhanushka/github-readme)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Oleg_Ab)](https://leetcode.com/u/Oleg_Ab/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dopelen&theme=graywhite&border_radius=50&card_width=550&fire=FF8910)](https://git.io/streak-stats)
-
-
