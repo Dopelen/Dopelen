@@ -59,13 +59,13 @@
 I am testing README where you can read ME...you know
 
 Here's a checklist to monitor my progress in life
-- [x] Learn the basics of python
+- [x] Learn the basics of Python
 - [x] Learn data structures
 - [x] Learn relational databases
 - [x] Learn popular frameworks like Django and FastAPI
 - [x] Learn to write tests
 - [x] Create a flow chart
-- [x] Create my [**git account**](https://github.com/Dopelen?tab=repositories) in which I will put my projects and solutions to algorithmic problems from leetcode
+- [x] Create my [**GitHub account**](https://github.com/Dopelen?tab=repositories) in which I will put my projects and solutions to algorithmic problems from leetcode
 - [x] [Solve all free simple algorithmic problems that exist](https://leetcode.com/u/Oleg_Ab/)
 - [x] Losing a streak of 100 consecutive days of solving problems because Leetcode says 'task solved on June 2' does not mean it is counted as solved on June 2. Due to time zones, a task solved in your location on June 2 may still be June 1 in the time zone used by Leetcode.
 - [x] Made my cool [***project***](https://github.com/Dopelen/CheckIPer) with GUI and animations
