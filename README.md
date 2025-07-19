@@ -110,7 +110,7 @@
 
 I’m writing a README — you know, so you can read me.
 
-Here's a checklist to monitor my progress in life:
+## Here's a checklist to monitor my progress in life:
 
 - [x] Learn the basics of Python  
 - [x] Learn data structures  
@@ -137,7 +137,7 @@ Here's a checklist to monitor my progress in life:
 - [ ] Find a new job  
 
 
-**Here is my plan**:
+## **Here is my plan**:
 
 ```mermaid
 graph TD;
