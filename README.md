@@ -105,27 +105,36 @@
   </picture>
   
 </p>
-
-      
+  
 Ссылка для переключения на [Русский](https://github.com/Dopelen/Dopelen/blob/main/README.ru.md)
 
-I am testing README where you can read ME...you know
+I’m writing a README — you know, so you can read me.
 
-Here's a checklist to monitor my progress in life
-- [x] Learn the basics of Python
-- [x] Learn data structures
-- [x] Learn relational databases
-- [x] Learn popular frameworks like Django and FastAPI
-- [x] Learn to write tests
-- [x] Create a flow chart
-- [x] Create my [**GitHub account**](https://github.com/Dopelen?tab=repositories) in which I will put my projects and solutions to algorithmic problems from leetcode
-- [x] [Solve all free simple algorithmic problems that exist](https://leetcode.com/u/Oleg_Ab/)
-- [x] Losing a streak of 100 consecutive days of solving problems because Leetcode says 'task solved on June 2' does not mean it is counted as solved on June 2. Due to time zones, a task solved in your location on June 2 may still be June 1 in the time zone used by Leetcode.
-- [x] Made my cool [***project***](https://github.com/Dopelen/CheckIPer) with GUI and animations
-- [x] Study, do projects, write tests ([all on GitHub](https://github.com/Dopelen?tab=repositories))
-- [ ] Solve all hard algorithmic problems that exist
-- [ ] Learn all the frameworks in the world
-- [ ] Find a job
+Here's a checklist to monitor my progress in life:
+
+- [x] Learn the basics of Python  
+- [x] Learn data structures  
+- [x] Learn relational databases  
+- [x] Learn popular frameworks like Django and FastAPI  
+- [x] Learn to write tests  
+- [x] Create a flowchart  
+- [x] Create my [**GitHub account**](https://github.com/Dopelen?tab=repositories) to host my projects and algorithmic solutions from LeetCode  
+- [x] [Solve all free easy algorithmic problems available](https://leetcode.com/u/Oleg_Ab/)  
+- [x] Lose a 100-day streak on LeetCode because solving a task on June 2 (local time) doesn’t count as June 2 in LeetCode’s time zone  
+- [x] Build my cool [***project***](https://github.com/Dopelen/CheckIPer) with a GUI and animations  
+- [x] Study, build projects, and write tests ([all on GitHub](https://github.com/Dopelen?tab=repositories))  
+- [x] Get a job
+- [x] Learn how to interact with databases using ORM
+- [x] Read the entire Elasticsearch documentation to improve flexible search at work and solve mapping issues  
+- [x] Develop a microservice as part of a microservice architecture, while automating the testing system for the entire project
+- [x] Design flexible tests with full synthetic data generation to easily reuse them across multiple work environments with minimal effort
+- [x] Create a data import system based on Excel templates generated for users
+- [x] Successfully investigate and resolve 50 production bugs!
+- [x] Take on the role of a team lead for a three-person testing group
+- [x] Achieve full integration and end-to-end test coverage for all project endpoints
+- [ ] Solve all hard algorithmic problems available  
+- [ ] Learn every framework in the world  
+- [ ] Find a new job  
 
 
 **Here is my plan**:
@@ -135,19 +144,19 @@ graph TD;
     Improve_project-->Good_day;
     Improve_project-->Cool_progect;
     Learn_python_frameworks-->Good_day;
-    Learn_SQL-->Good_day;
+    Learn_new_SQL_features-->Good_day;
     Send_summary-->Good_day;
     Send_memes_to_friends --> Good_day;
 ```
 
 | My current status: |
 |:----|
-|I’m working on finding a job but this is long road, so at the same time|
-|learning PostgreSQL and advanced data structures|
-|learning FastAPI and Django|
-|constantly implementing and improving my projects|
-|You can ask me about anything, but the quality of the answer may vary|
-|Fun fact: Why does fish smell so bad, it washes all its life...|
+|Actively looking for a new job — ready for the next big thing|
+|500+ days of daily LeetCode — still counting, still debugging|
+|Building new stuff, breaking old stuff, fixing both|
+|Learning how to make LLMs useful instead of just impressive|
+|Deep-diving into Python async to make every millisecond count|
+|Leveling up in testing — because bugs fear full coverage|
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Oleg_Ab)](https://leetcode.com/u/Oleg_Ab/)
