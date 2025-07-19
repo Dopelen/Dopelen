@@ -1,12 +1,9 @@
 # Добро пожаловать, меня зовут Олег
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=67C454&background=111222&center=true&vCenter=true&random=false&width=500&lines=_вот-вот_программист.__doc__" alt="Typing SVG" /></a>
-<img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=111222&background=67C454&center=true&vCenter=true&random=false&width=500&lines=_вот-вот_программист.__doc__" alt="Typing SVG"/></a>
-</picture>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=100&size=20&duration=2000&color=6C757D&multiline=true&repeat=false&width=1200&height=120&lines=%E2%80%82class+PythonDeveloper%3A;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Tech_Stack__core__+%3D+%5B%22Python%22%2C+%22FastAPI%22%2C+%22Elasticsearch%22%2C+%22PostgreSQL%22%2C+%22Docker%22%2C+%22Kafka%22%5D;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Experience__years__+%3D+2;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Contacts__telegram__+%3D+%22%40dopelen%22)](https://git.io/typing-svg)
 
 
-<p align="left" style="display: flex; justify-content: center; gap: 10px; border: 2px solid #000; padding: 10px;">
+<p align="left" style="display: flex; justify-content: center; gap: 10px; border: 2px solid #000; padding: 10px; ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python Icon" width="80" height="80">
@@ -20,6 +17,21 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI Icon" width="80" height="80">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-plain-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch Icon" width="80" height="80">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-plain-wordmark.svg" alt="SQLA Icon" width="80" height="80">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker Icon" width="80" height="80">
   </picture>
   
   <picture>
@@ -38,13 +50,53 @@
   </picture>
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="Postman Icon" width="80" height="80">
+  </picture>  
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia Icon" width="80" height="80">
+  </picture>  
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://qwantum.ru/wp-content/uploads/2023/05/cypress-light.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" alt="Cypress Icon" width="80" height="80">
+  </picture>  
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium Icon" width="80" height="80">
+  </picture>  
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" alt="Confluence Icon" width="80" height="80">
+  </picture>  
+  
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/217753/github.svg">
     <img src="https://www.svgrepo.com/show/303615/github-icon-1-logo.svg" alt="GitHub Icon" width="80" height="80">
   </picture>
 
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" alt="GitLab Icon" width="80" height="80">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger Icon" width="80" height="80">
+  </picture>
+
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/373726/kivy.svg">
     <img src="https://www.svgrepo.com/show/373726/kivy.svg" alt="Kivy Icon" width="80" height="80">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka Icon" width="80" height="80">
   </picture>
 
   <picture>
@@ -58,45 +110,55 @@ Link to [English version](https://github.com/Dopelen/Dopelen/blob/main/README.md
 
 Это мой профиль, в котором можно найти ссылки на мои проекты, аккаунты на других площадках и какую-то информацию обо мне.
 
-Вот чеклист, чтобы примерно отслеживать мой жизненный прогресс:
-- [x] Создать чек-лист
-- [x] Изучить Python 
-- [x] Изучить структуры данных
-- [x] Изучить реляционные базы данных
-- [x] Углубиться в изучение фреймворков на Python (FastAPI и Django)
-- [x] Научиться писать тесты 
-- [x] Создать блок-схему
-- [x] Создать свой [**GitHub аккаунт**](https://github.com/Dopelen?tab=repositories), куда я буду складывать свои проекты и решения алгоритмических задач с leetcode
-- [x] Сделать свой собственный [***проект***](https://github.com/Dopelen/CheckIPer) с GUI
-- [x] [Решить все существующие легкие бесплатные задачи на Leetcode](https://leetcode.com/u/Oleg_Ab/)
-- [x] Потерять серию из 100 последовательных дней решения задач на Leetcode потому что "задача решена второго июня" не значит, что она решена второго июня. Интерфейс Leetcode отображает информацию деталей отправки решения, исходя из вашего часового пояса, но высчитывает границы дней, относительно своего.
-- [x] Продолжать учиться, делать проекты и писать тесты ([всё на GitHub](https://github.com/Dopelen/CheckIPer))
-- [ ] Решить все существующие сложные алгоритмические задачи
-- [ ] Изучить все фреймворки мира 
-- [ ] Найти работу
+## Вот чеклист, по которому я отслеживаю свой прогресс в жизни:
 
+- [x] Изучить основы Python  
+- [x] Изучить структуры данных  
+- [x] Изучить реляционные базы данных  
+- [x] Освоить популярные фреймворки вроде Django и FastAPI  
+- [x] Научиться писать тесты  
+- [x] Нарисовать блок-схему  
+- [x] Создать свой [**GitHub-аккаунт**](https://github.com/Dopelen?tab=repositories) для проектов и решений алгоритмических задач с LeetCode  
+- [x] [Решить все бесплатные простые алгоритмические задачи, которые доступны](https://leetcode.com/u/Oleg_Ab/)  
+- [x] Потерять череду из 100 непрерывных дней на LeetCode, потому что задача, решённая 2 июня по моему времени, не считается решённой 2 июня по часовому поясу LeetCode  
+- [x] Сделать свой классный [***проект***](https://github.com/Dopelen/CheckIPer) с GUI и анимациями  
+- [x] Учиться, делать проекты и писать тесты ([всё на GitHub](https://github.com/Dopelen?tab=repositories))  
+- [x] Найти работу  
+- [x] Изучить взаимодействие с базами данных через ORM  
+- [x] Прочитать всю документацию по Elasticsearch, чтобы улучшить гибкий поиск на работе и решить проблему с маппингами  
+- [x] Реализовать микросервис в рамках микросервисной архитектуры и автоматизировать систему тестирования всего проекта  
+- [x] Сконструировать гибкие тесты с полной генерацией синтетических данных, чтобы с минимумом усилий использовать их на нескольких рабочих контурах  
+- [x] Написать систему импорта данных в систему с помощью генерируемых для пользователя Excel-шаблонов  
+- [x] Успешно расследовать и исправить 50 багов в продакшене  
+- [x] Стать лидом команды тестирования из трёх человек  
+- [x] Реализовать полное покрытие интеграционными и e2e тестами всех эндпоинтов проекта  
+- [ ] Решить все сложные алгоритмические задачи  
+- [ ] Выучить все фреймворки в мире  
+- [ ] Найти новую работу  
 
-**В целом сценарий такой**:
+---
+
+## Вот мой план:
 
 ```mermaid
 graph TD;
     Улучшить_проект-->Хороший_день;
     Улучшить_проект-->Крутой_проект;
-    Учить_Python_фреймворки-->Хороший_день;
-    Делать_задачки_на_SQL-->Хороший_день;
+    Изучить_новую_фишку_Python-->Хороший_день;
+    Изучить_новую_фишку_SQL-->Хороший_день;
     Разослать_резюме-->Хороший_день;
     Отправить_мемы_друзьям-->Хороший_день;
 ```
 
-
 | Мой текущий статус: |
 |:----|
-|Активно ищу работу, но это долгий путь, так что я не трачу своё время и прокачиваю свои компетенции со всех сторон|
-|Повышаю знания в PostgreSQL и изучаю продвинутые структуры данных в Python|
-|Учу FastAPI и Django|
-|Делаю различные проекты и улучшаю те, что есть|
-|Меня можно спрашивать о чем угодно, но качество ответа может варьироваться|
-|Забавный факт: Кольчуга для кролика это крольчуга|
+|Активно ищу новую работу — готов к следующему большому вызову|
+|Больше 500 дней подряд решаю задачи на LeetCode — счётчик не сбит, отладка идёт|
+|Создаю новое, ломаю старое, чиню всё|
+|Изучаю, как сделать LLM по-настоящему полезными, а не просто впечатляющими|
+|Погружаюсь в асинхронность Python, чтобы каждая миллисекунда работала на меня|
+|Прокачиваю скилл тестирования — ведь баги боятся полного покрытия|
+|Пытаюсь найти шутки, которые и на русском и на английском одинаково смешные|
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Oleg_Ab)](https://leetcode.com/u/Oleg_Ab/)
