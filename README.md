@@ -147,7 +147,7 @@ graph TD;
     Improve_project-->Cool_progect;
     Learn_python_frameworks-->Good_day;
     Learn_new_SQL_features-->Good_day;
-    Send_summary-->Good_day;
+    Send_resume-->Good_day;
     Send_memes_to_friends --> Good_day;
 ```
 
