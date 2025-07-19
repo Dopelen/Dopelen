@@ -1,9 +1,6 @@
 # Hi there, I'm Oleg
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=67C454&background=111222&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG" /></a>
-<img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=4000&pause=10000&color=111222&background=67C454&center=true&vCenter=true&random=false&width=500&lines=_Pre_alpha_developer.__doc__" alt="Typing SVG"/></a>
-</picture>  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=100&size=20&duration=2000&color=67C454&background=111222&multiline=true&repeat=false&width=1200&height=120&lines= Class+PythonDeveloper%3A;    _Tech_Stack.__core__+%3D+%5B%22Python%22%2C+%22FastAPI%22%2C+%22Kafka%22%2C+%22Elasticsearch%22%2C+%22PostgreSQL%22%2C+%22Docker%22%5D;    _Experience.__years__+%3D+2;    _Contacts.__telegram__+%3D+%22%40dopelen%22)
 
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px; border: 2px solid #000; padding: 10px;">
