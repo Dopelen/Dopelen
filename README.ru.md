@@ -161,6 +161,6 @@ graph TD;
 |Пытаюсь найти шутки, которые и на русском и на английском одинаково смешные|
 
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Oleg_Ab)](https://leetcode.com/u/Oleg_Ab/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Oleg_Ab?hide=ranking&ext=heatmap)](https://leetcode.com/u/Oleg_Ab/)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dopelen&theme=graywhite&border_radius=50&card_width=550&fire=FF8910)](https://git.io/streak-stats)
