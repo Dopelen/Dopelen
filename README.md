@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=100&size=20&duration=2000&color=6C757D&multiline=true&repeat=false&width=1200&height=120&lines=%E2%80%82class+PythonDeveloper%3A;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Tech_Stack__core__+%3D+%5B%22Python%22%2C+%22FastAPI%22%2C+%22Elasticsearch%22%2C+%22PostgreSQL%22%2C+%22Docker%22%2C+%22Kafka%22%5D;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Experience__years__+%3D+2;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Contacts__telegram__+%3D+%22%40dopelen%22)](https://git.io/typing-svg)
 
 
-
-
 <p align="left" style="display: flex; justify-content: center; gap: 10px; border: 2px solid #000; padding: 10px; ">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
@@ -111,6 +109,77 @@
 Ссылка для переключения на [Русский](https://github.com/Dopelen/Dopelen/blob/main/README.ru.md)
 
 I’m writing a README — you know, so you can read me.
+
+In the drop down menu below you can see my projects (the headings are hyperlinks to repositories, feel free to click).
+
+
+<details>
+  <summary>🚀 <b>Projects</b></summary>
+
+  ### 1️⃣ [Product Categories](https://github.com/Dopelen/Product_categories)
+  A microservice for in-store order processing
+
+  **Tech stack:** Python, FastAPI, PostgreSQL, Asyncpg, Docker, Alembic, SQLAlchemy, Pydantic
+
+  ### 2️⃣ [Balance Application](https://github.com/Dopelen/balance_application)
+  A microservice for managing user balances through transactions
+
+  **Tech stack:** Python, FastAPI, PostgreSQL, gRPC, Asyncpg, Docker, Alembic, SQLAlchemy, Pydantic
+
+  ### 3️⃣ [Warehouse Monitoring Service](https://github.com/Dopelen/warehouse-monitoring-service)
+  A warehouse monitoring service using an event broker
+
+  **Tech stack:** Python, FastAPI, PostgreSQL, Aiokafka, Asyncpg, Docker, SQLAlchemy, Pydantic
+
+  ### 4️⃣ [FastAPI Template](https://github.com/Dopelen/fastapi-template)
+  A FastAPI application template
+
+  **Tech stack:** Python, FastAPI, PostgreSQL, Aiokafka, Asyncpg, Docker, SQLAlchemy, Pydantic
+
+  ### 5️⃣ [Testing Templates](https://github.com/Dopelen/testing-templates)
+  Test templates and connection setups for integration testing
+
+  **Tech stack:** Python, Pytest, Elasticsearch
+
+  ### 6️⃣ [CheckIPer](https://github.com/Dopelen/CheckIPer__Kivy__)
+  A program for monitoring the status of devices on a network by pinging them with a flexible timer
+
+  **Tech stack:** Python, Kivy
+
+  ### 7️⃣ [Weatherman](https://github.com/Dopelen/Weatherman__Django__)
+  A website for getting weather forecasts via API and generating weather charts in Django
+
+  **Tech stack:** Python, JavaScript, CSS, Django, Matplotlib, Pandas, Plotly
+
+  ### 8️⃣ [School](https://github.com/Dopelen/School__FastAPI-PostgreSQL__)
+  A school database management system
+
+  **Tech stack:** Python, FastAPI, SQLAlchemy, Pydantic, Pytest
+
+  ### 9️⃣ [Models for Game](https://github.com/Dopelen/Models_for_game)
+  A service for calculating bonuses in a game with downloadable information about them
+
+  **Tech stack:** Python, SQLite, SQLAlchemy, Pytest
+
+  ### 🔟 [Phone Book](https://github.com/Dopelen/Phone_book__Python__)
+  A console-based telephone directory interface
+
+  **Tech stack:** Python
+</details>
+
+<details>
+  <summary>🧩 <b>Algorithm Challenges</b></summary>
+
+  ### 1️⃣ [LeetCode](https://github.com/Dopelen/Solved-problems)
+  My solutions for thousands of algorithmic problems
+  
+  **Tech stack:** Python
+
+  ### 2️⃣ [AdventOfCode2024](https://github.com/Dopelen/AdventOfCode2024)
+  My solutions to problems at the annual AdventOfCode algorithmic problem event
+  
+  **Tech stack:** Python
+</details>
 
 ## Here's a checklist to monitor my progress in life:
 
