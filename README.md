@@ -1,6 +1,6 @@
 # Hi there, I'm Oleg
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=100&size=20&duration=2000&color=6C757D&multiline=true&repeat=false&width=1200&height=120&lines=%E2%80%82class+PythonDeveloper%3A;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Tech_Stack__core__+%3D+%5B%22Python%22%2C+%22FastAPI%22%2C+%22Elasticsearch%22%2C+%22PostgreSQL%22%2C+%22Docker%22%2C+%22Kafka%22%5D;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Experience__years__+%3D+2;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Contacts__telegram__+%3D+%22%40dopelen%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=100&size=20&duration=2000&color=6C757D&multiline=true&repeat=false&width=1200&height=120&lines=%E2%80%82class+PythonDeveloper%3A;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Tech_Stack__core__+%3D+%5B%22Python%22%2C+%22FastAPI%22%2C+%22Elasticsearch%22%2C+%22PostgreSQL%22%2C+%22Docker%22%2C+%22Kafka%22%5D;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Experience__years__+%3D+3;%E2%80%82%E2%80%82%E2%80%82%E2%80%82_Contacts__telegram__+%3D+%22%40dopelen%22)](https://git.io/typing-svg)
 
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px; border: 2px solid #000; padding: 10px; ">
