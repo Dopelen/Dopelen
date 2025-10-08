@@ -110,6 +110,78 @@ Link to [English version](https://github.com/Dopelen/Dopelen/blob/main/README.md
 
 Это мой профиль, в котором можно найти ссылки на мои проекты, аккаунты на других площадках и какую-то информацию обо мне.
 
+В раскрывающемся меню ниже вы можете ознакомиться с моими проектами (заголовки — это ссылки на репозитории, можно кликнуть).
+
+
+<details>
+  <summary>🚀 <b>Проекты</b></summary>
+
+  ### 1️⃣ [Product Categories](https://github.com/Dopelen/Product_categories)
+  Микросервис для обработки заказов в магазине
+
+  **Стек:** Python, FastAPI, PostgreSQL, Asyncpg, Docker, Alembic, SQLAlchemy, Pydantic
+
+  ### 2️⃣ [Balance Application](https://github.com/Dopelen/balance_application)
+  Микросервис для управления пользовательскими балансами через транзакции
+
+  **Стек:** Python, FastAPI, PostgreSQL, gRPC, Asyncpg, Docker, Alembic, SQLAlchemy, Pydantic
+
+  ### 3️⃣ [Warehouse Monitoring Service](https://github.com/Dopelen/warehouse-monitoring-service)
+  Сервис для мониторинга состояния складов с использованием брокера событий
+
+  **Стек:** Python, FastAPI, PostgreSQL, Aiokafka, Asyncpg, Docker, SQLAlchemy, Pydantic
+
+  ### 4️⃣ [FastAPI Template](https://github.com/Dopelen/fastapi-template)
+  Шаблон приложения на FastAPI
+
+  **Стек:** Python, FastAPI, PostgreSQL, Aiokafka, Asyncpg, Docker, SQLAlchemy, Pydantic
+
+  ### 5️⃣ [Testing Templates](https://github.com/Dopelen/testing-templates)
+  Шаблоны и настройки для интеграционного тестирования
+
+  **Стек:** Python, Pytest, Elasticsearch
+
+  ### 6️⃣ [CheckIPer](https://github.com/Dopelen/CheckIPer__Kivy__)
+  Программа для мониторинга состояния устройств в сети с помощью ping и гибкого таймера
+
+  **Стек:** Python, Kivy
+
+  ### 7️⃣ [Weatherman](https://github.com/Dopelen/Weatherman__Django__)
+  Веб-приложение на Django для получения прогнозов погоды через API и построения графиков
+
+  **Стек:** Python, JavaScript, CSS, Django, Matplotlib, Pandas, Plotly
+
+  ### 8️⃣ [School](https://github.com/Dopelen/School__FastAPI-PostgreSQL__)
+  Система управления базой данных школы
+
+  **Стек:** Python, FastAPI, SQLAlchemy, Pydantic, Pytest
+
+  ### 9️⃣ [Models for Game](https://github.com/Dopelen/Models_for_game)
+  Сервис для расчета бонусов в игре с возможностью загрузки данных о них
+
+  **Стек:** Python, SQLite, SQLAlchemy, Pytest
+
+  ### 🔟 [Phone Book](https://github.com/Dopelen/Phone_book__Python__)
+  Консольный интерфейс телефонного справочника
+
+  **Стек:** Python
+</details>
+
+<details>
+  <summary>🧩 <b>Решение алгоритмических задач</b></summary>
+
+  ### 1️⃣ [LeetCode](https://github.com/Dopelen/Solved-problems)
+  Мои решения тысяч алгоритмических задач
+
+  **Стек:** Python
+
+  ### 2️⃣ [AdventOfCode2024](https://github.com/Dopelen/AdventOfCode2024)
+  Мои решения задач с ежегодного события AdventOfCode
+
+  **Стек:** Python
+</details>
+
+
 ## Вот чеклист, по которому я отслеживаю свой прогресс в жизни:
 
 - [x] Изучить основы Python  
