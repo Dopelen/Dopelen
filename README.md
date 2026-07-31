@@ -237,7 +237,7 @@ In the drop down menu below you can see my projects, newest first (the headings 
 ```mermaid
 graph TD;
     Improve_project-->Good_day;
-    Improve_project-->Cool_progect;
+    Improve_project-->Cool_project;
     Learn_python_frameworks-->Good_day;
     Learn_new_SQL_features-->Good_day;
     Send_resume-->Good_day;
